@@ -1,4 +1,5 @@
 import cv2
+import numpy
 
 
 def faceBox(net, frame, conf_threshold=0.7):
